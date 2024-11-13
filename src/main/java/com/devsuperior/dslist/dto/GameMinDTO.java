@@ -4,6 +4,7 @@ import com.devsuperior.dslist.entities.Game;
 
 import jakarta.persistence.Column;
 
+
 public class GameMinDTO {
 
 	private Long id;
@@ -13,8 +14,7 @@ public class GameMinDTO {
 	private String shortDescription;
 
 	
-	public GameMinDTO() {
-		
+	public GameMinDTO() {	
 	}
 
 
